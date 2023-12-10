@@ -1,1 +1,1 @@
-feature version 3
+conflict 1
