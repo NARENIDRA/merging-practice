@@ -1,1 +1,1 @@
-feature version 3
+confict 2
